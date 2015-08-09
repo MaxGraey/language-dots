@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "name": "language-dots",
   "description": "Atom language support for dot files like .gitignore, .npmignore, .env and etc",
   "repository": {

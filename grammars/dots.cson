@@ -50,8 +50,6 @@
   {
     'include': 'source.js'
   }
-  {
-    'include': 'source.gitconfig'
-  }
 ]
+
 'scopeName': 'source.dots'

@@ -6,4 +6,4 @@ Atom Dots Language Package
 ### Example:
 > enviroments file with [atom-dark-fusion-syntax](https://atom.io/themes/atom-dark-fusion-syntax) theme:
 
-![examaple.png](./screenshots/example.png)
+![examaple.png](https://raw.githubusercontent.com/MaxGraey/language-dots/master/screenshots/example.png)

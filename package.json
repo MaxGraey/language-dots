@@ -1,0 +1,33 @@
+{
+  "version": "0.0.0",
+  "name": "language-dots",
+  "description": "Atom language support for dot files like .gitignore, .npmignore, .env and etc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxGraey/language-dots.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxGraey/language-dots/issues"
+  },
+  "homepage": "https://github.com/MaxGraey/language-dots",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "keywords": [
+    "language",
+    "gitignore",
+    "npmrc",
+    "env",
+    "hidden",
+    "resource",
+    "dot",
+    "bash",
+    "file",
+    "atom",
+    "editor",
+    "syntax"
+  ],
+  "readmeFilename": "README.md"
+}
